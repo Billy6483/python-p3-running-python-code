@@ -1,1 +1,2 @@
-print("Hello world!")
+# lib/app.py
+print("Hello World! Pass this test, please.")
